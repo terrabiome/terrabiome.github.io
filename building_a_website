@@ -1,0 +1,20 @@
+#####building_a_website
+#####TerraBiome
+#####20220828_DN
+
+#Go to directory that contains source file for website
+
+cd ~/Desktop/terrabiome/terrabiome_mini/dist
+
+#Start a web server that hosts your source file
+
+python -m http.server 5555 #choose a port number above '1000'
+
+#Load source file into Chrome
+
+#Open Chrome
+#Go to local host website (type into search bar 'localhost:5555')
+#Command + Option + j
+#Go to 'Settings' > 'Workspace' > 'Add' (choose source file directory)
+
+#Made edits in 'Sources'
