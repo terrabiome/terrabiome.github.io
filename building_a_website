@@ -18,3 +18,10 @@ python -m http.server 5555 #choose a port number above '1000'
 #Go to 'Settings' > 'Workspace' > 'Add' (choose source file directory)
 
 #Made edits in 'Sources'
+
+#Add changes
+
+git add .
+git commit -m '<commit message>'
+git status
+git push origin master
