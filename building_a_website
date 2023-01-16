@@ -18,6 +18,7 @@ python -m http.server 5555 #choose a port number above '1000'
 #Go to 'Settings' > 'Workspace' > 'Add' (choose source file directory)
 
 #Made edits in 'Sources'
+#option + cmd + j to open up Inspection and switch to Sources
 
 #Add changes
 
