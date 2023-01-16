@@ -20,7 +20,8 @@ python -m http.server 5555 #choose a port number above '1000'
 #Made edits in 'Sources'
 #option + cmd + j to open up Inspection and switch to Sources
 
-#Add changes
+#Add changes to Source
+#If need to inspect elements, click on cursor at the top
 
 git add .
 git commit -m '<commit message>'
